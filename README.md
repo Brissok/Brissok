@@ -20,6 +20,8 @@ Je m'appelle Brice Tchijouk et je viens d'obtenir le diplôme de Développeur we
 [![Linkedin Badge](https://img.shields.io/badge/-bricetchijouk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brice-t/)](https://www.linkedin.com/in/brice-t/)
 
 ⚡ Les technologies que j'utilise
+
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Expressjs](https://img.shields.io/badge/-Expressjs-black?style=flat-square&logo=Express.js)
