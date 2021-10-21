@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Je m'appelle Brice Tchijouk et je viens d'obtenir le diplôme de Développeur web grâce à la formation d'OpenClassRooms.
 
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brice-t/)](https://www.linkedin.com/in/brice-t/)
+[![Linkedin Badge](https://img.shields.io/badge/-bricetchijouk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brice-t/)](https://www.linkedin.com/in/brice-t/)
 
 ⚡ Les technologies que j'utilise
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
