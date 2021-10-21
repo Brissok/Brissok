@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 Je m'appelle Brice Tchijouk et je viens d'obtenir le diplôme de Développeur web grâce à la formation d'OpenClassRooms.
 
 [![Linkedin Badge](https://img.shields.io/badge/-bricetchijouk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brice-t/)](https://www.linkedin.com/in/brice-t/)
-[![Linkedin Badge](https://img.shields.io/badge/-codingame-black?style=flat-square&logo=codingame&logoColor=white&link=https://www.codingame.com/profile/88fc1c60e598c77bedb915c34e76ed9c9106753)](https://www.codingame.com/profile/88fc1c60e598c77bedb915c34e76ed9c9106753)
-
+[![CodinGame Badge](https://img.shields.io/badge/-codingame-black?style=flat-square&logo=codingame&logoColor=white&link=https://www.codingame.com/profile/88fc1c60e598c77bedb915c34e76ed9c9106753)](https://www.codingame.com/profile/88fc1c60e598c77bedb915c34e76ed9c9106753)
+[![Portfolio Badge](https://img.shields.io/badge/-portfolio-black?style=flat-square&logo=earth&logoColor=white&link=http://brissok.fr)](http://www.brissok.fr)
 
 ⚡ Les technologies que j'utilise
 
